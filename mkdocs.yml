@@ -55,14 +55,12 @@ markdown_extensions:
 
 extra:
   social:
-    - icon: simple/youtube
-      link: https://youtube.com/
-    - icon: material/linkedin
-      link: https://linkedin.com/in/arash-dashti
+    - icon: material/github
+      link: https://github.com/arash-d
 
 copyright: Copyright &copy; 2025 Arash Dashti
 
-
+docs_dir: docs
 # theme:
 #   name: material
 #   palette:
